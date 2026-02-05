@@ -15,7 +15,8 @@ Open for freelance/remote projects: Jetpack Compose migrations, custom features,
 - **TaskList** -> Task mangment app with local persistence
    [Link](https://github.com/casdelamir/TaskList)
 
-##iOS Project (Cross-Platform Showcase)
+## iOS Project (Cross-Platform Showcase)
+
 - **SuperHeroApp_iOS** -> iOS version of superhero API app
    [Link](https://github.com/casdelamir/SuperHeroApp_iOS)
 
