@@ -32,4 +32,4 @@ Open for freelance/remote projects: Jetpack Compose migrations, custom features,
 
 Open to freelance: LinkedIn 
 
-[Link](https://www.linkedin.com/in/delamir-ivanov-116b86259
+[Link](https://www.linkedin.com/in/delamir-ivanov-116b86259)
