@@ -14,6 +14,8 @@ Open for freelance/remote projects: Jetpack Compose migrations, custom features,
    [Link](https://github.com/casdelamir/ProductsApp)
 - **TaskList** -> Task mangment app with local persistence
    [Link](https://github.com/casdelamir/TaskList)
+- **BirdObservatinsAPP** -> Birds Observations browser using Jetpack Compose, Retrofit, Room and Hilt
+   [Link](https://github.com/casdelamir/BirdObservationsAPP)
 
 ## iOS Project (Cross-Platform Showcase)
 
